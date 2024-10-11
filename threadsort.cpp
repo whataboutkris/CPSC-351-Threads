@@ -30,3 +30,5 @@ int main() {
     Sublist LsubList = {&arr, 0, mid};
     Sublist RsubList = {&arr, mid + 1, size - 1};
 
+    //s
+
